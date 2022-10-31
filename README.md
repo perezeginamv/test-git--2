@@ -11,3 +11,5 @@ git remote -v -просмотр ссылки на репозиторий
 9. git reset --hard - отменяет все изменения, которые были сделаны до записи в stage
 10. git branch [branchname]  - добавление новой ветки
 11. git checkout [branchname] - переключение на другую ветку
+12. git merge - слияние веток
+13. git branch -d [branchname] - удаление ветки из локального репозитория
